@@ -1,0 +1,1 @@
+import Game from"../components/AILogic";import GameController from"../components/gameController";document.addEventListener("DOMContentLoaded",(function(){var o=new Game(document.querySelector("ul.board"));GameController(o)}));
